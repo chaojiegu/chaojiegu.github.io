@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Challenges of Privacy-Preserving Machine Learning in IoT</title>
+      <link>/publication/aiot/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/aiot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>One-hop Out-of-band Control Planes for Multi-hop Wireless Sensor Networks</title>
       <link>/publication/loracp_jour/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
