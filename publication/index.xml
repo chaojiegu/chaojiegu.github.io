@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN</title>
+      <link>/publication/securetimestamping/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/securetimestamping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Challenges of Privacy-Preserving Machine Learning in IoT</title>
       <link>/publication/aiot/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
@@ -27,15 +36,6 @@
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/loracp_jour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Secure Data Timestamping in Synchronization-Free LoRaWAN</title>
-      <link>/publication/securetimestamping/</link>
-      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/securetimestamping/</guid>
       <description></description>
     </item>
     
