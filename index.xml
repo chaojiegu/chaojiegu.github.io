@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Lightweight and Unobtrusive Data Obfuscation at IoT Edge for Remote Inference</title>
+      <link>/publication/aiot_iotj/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/aiot_iotj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN</title>
       <link>/publication/securetimestamping/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
