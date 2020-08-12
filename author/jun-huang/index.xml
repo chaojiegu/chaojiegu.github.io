@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Huang | Chaojie GU</title>
+    <link>https://chaojiegu.github.io/author/jun-huang/</link>
+      <atom:link href="https://chaojiegu.github.io/author/jun-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017 Chaojie Gu</copyright><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaojiegu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jun Huang</title>
+      <link>https://chaojiegu.github.io/author/jun-huang/</link>
+    </image>
+    
+    <item>
+      <title>Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN</title>
+      <link>https://chaojiegu.github.io/publication/securetimestamping/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaojiegu.github.io/publication/securetimestamping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Poster) SoftLoRa -- A LoRa-Based Platform for Accurate and Secure Timing</title>
+      <link>https://chaojiegu.github.io/publication/softlora_poster/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://chaojiegu.github.io/publication/softlora_poster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

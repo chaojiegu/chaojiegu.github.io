@@ -1,181 +1,170 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>/publication/aiot_iotj/</loc>
-      <lastmod>2020-03-21T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/publication-type/1/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/securetimestamping/</loc>
-      <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/author/amalinda-gamage/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/aiot/</loc>
-      <lastmod>2019-06-12T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/authors/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/loracp_jour/</loc>
-      <lastmod>2019-06-12T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/softlora_poster/</loc>
-      <lastmod>2019-02-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/author/chaojie-gu/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/loralocalization/</loc>
-      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/author/jansen-c.-liando/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/deeproom/</loc>
-      <lastmod>2018-07-04T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/publication/lmac/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/loracp/</loc>
-      <lastmod>2018-04-18T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/author/mo-li/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/publication_types/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/publication/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/author/rui-tan/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/publication-type/2/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/0/</loc>
-      <lastmod>2019-06-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/author/dixing-xu/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/publication/aiot_iotj/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2020-03-21T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/author/linshan-jiang/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/author/mengyao-zheng/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/author/peng-cheng/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2019-06-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/publication/securetimestamping/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://chaojiegu.github.io/author/jun-huang/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/publication-type/0/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/publication/aiot/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/publication/loracp_jour/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/author/xin-lou/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/publication/softlora_poster/</loc>
+    <lastmod>2019-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/publication/loralocalization/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/publication/deeproom/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/author/qun-song/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/author/dusit-niyato/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/publication/loracp/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/author/chaojie-gu-%E9%A1%BE%E8%B6%85%E6%9D%B0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chaojiegu.github.io/tags/</loc>
+  </url>
   
 </urlset>

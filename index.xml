@@ -1,84 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chaojie GU on Chaojie GU</title>
-    <link>/</link>
-    <description>Recent content in Chaojie GU on Chaojie GU</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 Chaojie Gu</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <title>Chaojie GU</title>
+    <link>https://chaojiegu.github.io/</link>
+      <atom:link href="https://chaojiegu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chaojie GU</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017 Chaojie Gu</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chaojiegu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Chaojie GU</title>
+      <link>https://chaojiegu.github.io/</link>
+    </image>
+    
+    <item>
+      <title>LMAC: Efficient Carrier-Sense Multiple Access for LoRa</title>
+      <link>https://chaojiegu.github.io/publication/lmac/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://chaojiegu.github.io/publication/lmac/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lightweight and Unobtrusive Data Obfuscation at IoT Edge for Remote Inference</title>
-      <link>/publication/aiot_iotj/</link>
+      <link>https://chaojiegu.github.io/publication/aiot_iotj/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/aiot_iotj/</guid>
+      <guid>https://chaojiegu.github.io/publication/aiot_iotj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN</title>
-      <link>/publication/securetimestamping/</link>
+      <link>https://chaojiegu.github.io/publication/securetimestamping/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/securetimestamping/</guid>
+      <guid>https://chaojiegu.github.io/publication/securetimestamping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Challenges of Privacy-Preserving Machine Learning in IoT</title>
-      <link>/publication/aiot/</link>
+      <link>https://chaojiegu.github.io/publication/aiot/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/aiot/</guid>
+      <guid>https://chaojiegu.github.io/publication/aiot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-hop Out-of-band Control Planes for Multi-hop Wireless Sensor Networks</title>
-      <link>/publication/loracp_jour/</link>
+      <link>https://chaojiegu.github.io/publication/loracp_jour/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/loracp_jour/</guid>
+      <guid>https://chaojiegu.github.io/publication/loracp_jour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>(Poster) SoftLoRa -- A LoRa-Based Platform for Accurate and Secure Timing</title>
-      <link>/publication/softlora_poster/</link>
+      <link>https://chaojiegu.github.io/publication/softlora_poster/</link>
       <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/softlora_poster/</guid>
+      <guid>https://chaojiegu.github.io/publication/softlora_poster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LoRa-Based Localization: Opportunities and Challenges</title>
-      <link>/publication/loralocalization/</link>
+      <link>https://chaojiegu.github.io/publication/loralocalization/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/loralocalization/</guid>
+      <guid>https://chaojiegu.github.io/publication/loralocalization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Room Recognition Using Inaudible Echos</title>
-      <link>/publication/deeproom/</link>
+      <link>https://chaojiegu.github.io/publication/deeproom/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/deeproom/</guid>
+      <guid>https://chaojiegu.github.io/publication/deeproom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-Hop Out-of-Band Control Planes for Low-Power Multi-Hop Wireless Networks</title>
-      <link>/publication/loracp/</link>
+      <link>https://chaojiegu.github.io/publication/loracp/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/loracp/</guid>
+      <guid>https://chaojiegu.github.io/publication/loracp/</guid>
       <description></description>
     </item>
     
