@@ -5,12 +5,20 @@
     <link>https://chaojiegu.github.io/publication-type/2/</link>
       <atom:link href="https://chaojiegu.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2021 Chaojie Gu</copyright><lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2021 Chaojie Gu</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaojiegu.github.io/images/icon_hu9c1b030139ab70c1a2dcaab1db957901_100811_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://chaojiegu.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>A Survey on LoRaWAN Technologies for Enabling New Generation Internet of Things</title>
+      <link>https://chaojiegu.github.io/publication/lpwan_survery/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaojiegu.github.io/publication/lpwan_survery/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lightweight and Unobtrusive Data Obfuscation at IoT Edge for Remote Inference</title>
@@ -25,14 +33,6 @@
       <link>https://chaojiegu.github.io/publication/loracp_jour/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://chaojiegu.github.io/publication/loracp_jour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Survey on LoRaWAN Technologies for Enabling New Generation Internet of Things</title>
-      <link>https://chaojiegu.github.io/publication/lpwan_survery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chaojiegu.github.io/publication/lpwan_survery/</guid>
       <description></description>
     </item>
     
