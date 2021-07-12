@@ -5,12 +5,20 @@
     <link>https://chaojiegu.github.io/author/mo-li/</link>
       <atom:link href="https://chaojiegu.github.io/author/mo-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Mo Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2021 Chaojie Gu</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2021 Chaojie Gu</copyright><lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chaojiegu.github.io/images/icon_hu9c1b030139ab70c1a2dcaab1db957901_100811_512x512_fill_lanczos_center_2.png</url>
       <title>Mo Li</title>
       <link>https://chaojiegu.github.io/author/mo-li/</link>
     </image>
+    
+    <item>
+      <title>Attack-Aware Synchronization-Free Data Timestamping in LoRaWAN 	</title>
+      <link>https://chaojiegu.github.io/publication/lorast_jour/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://chaojiegu.github.io/publication/lorast_jour/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LMAC: Efficient Carrier-Sense Multiple Access for LoRa</title>
